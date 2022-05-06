@@ -1,4 +1,7 @@
-# Fitting Poisson Distribution
+### EX NO: 02
+### DATE:
+
+# <p align = "center">  Fitting Poisson Distribution</p>
 
 # Aim : 
 
